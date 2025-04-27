@@ -1,6 +1,6 @@
 # Tic Tac Toe with Minimax Algorithm
 
-This project implements a Tic Tac Toe game with an AI powered by the Minimax algorithm. The AI ensures optimal moves for both players, making it unbeatable.
+This project implements a Tic Tac Toe game with an AI powered by the Minimax algorithm.
 
 ## Features
 
@@ -22,7 +22,7 @@ This project implements a Tic Tac Toe game with an AI powered by the Minimax alg
 - Use o for Player O's moves.
 - Use . for empty spaces.
 - Example input:
-```bash
-x.o...o.x
-```
+    ```bash
+    x.o...o.x
+    ```
 4. View Results: The program will display the winner (X wins, O wins) or Draw if the game ends in a tie.
