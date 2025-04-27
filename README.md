@@ -24,5 +24,5 @@ This project implements a Tic Tac Toe game with an AI powered by the Minimax alg
 - Example input:
 ```bash
 x.o...o.x
-
+```
 4. View Results: The program will display the winner (X wins, O wins) or Draw if the game ends in a tie.
